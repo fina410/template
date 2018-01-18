@@ -10,6 +10,7 @@ labels:
   - Vans
   - Shoe Design
   - HTML
+  - CSS
   - Website
 summary: During the spring of 2015, my team designed custom shoes and placed into the semi-finals with the highest amount of votes in our region.
 ---
@@ -18,16 +19,12 @@ summary: During the spring of 2015, my team designed custom shoes and placed int
   <img class="ui image" src="../images/vanShoes.jpg"/>
 </div>
 
-Vans Custom Culture is a yearly contest for high school students nationwide. Students are challenged to create four different designs all revolving around one main theme. These four categories were sports, art, music, and "local flavor. 
+Vans Custom Culture is a yearly competition for high school students nationwide to showcase their creativity. Students are challenged to create four different designs all revolving around one main theme. These four categories were sports, art, music, and "local flavor." Each school is provided four different shoe styles from VanS, to create their individual looks right onto the shoes. The judging process involves a narrow down to 50 schools, then a public voting to select the top 5. McKinley High School was the only Hawaii school to make it into the semi-finalist round, and as well as the school with the highest votes.  
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
-
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
-
-Here is some code that illustrates how we read values from the line sensors:
+For this contest, I was one of the four main designers responsible for creating the look and design for the art category. My process began with making multiple drafts and sketches for the shoe, and communicating these ideas with my group. From here I drafted my design onto the shoe and used acrylic paints to color the shoe. After the process of designing our shoes, we received notification that our shoes made it into the semi-finals round, and we had to attain votes to get our school into the top 5. To attain votes and bring light to this, I created a promotional website that talked about the contest and showcased the shoes. To create the website I had to first draft the look I was wanting to go for, and then from there I began putting in the basic framework of the site and stylize it in the end using CSS. 
 
 
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
+Here is a website that gives coverage to the shoe designs: [KHON2 ~ Living808](http://khon2.com/2015/05/04/support-local-students-at-the-vans-custom-culture-contest/).
 
 
 
