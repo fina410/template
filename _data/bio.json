@@ -2,7 +2,7 @@
   "basics": {
     "name": "Josefina Fortin",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
+    "picture": "https://techfolios.github.io/template/images/smaller2_90.jpg",
     "email": "fortinj@hawaii.edu",
     "phone": "808-724-1761",
     "website": "https://josefinafortin.github.io",
@@ -23,7 +23,7 @@
       {
         "network": "linkedin",
         "username": "JosefinaFortin",
-        "url": "http://linkedin.com/in/changeme"
+        "url": "http://linkedin.com/in/josefinafortin"
       }
     ]
   },
@@ -70,9 +70,9 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Spring, 2020)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2016-08-22",
       "endDate": "Present",
       "gpa": "",
       "courses": [
