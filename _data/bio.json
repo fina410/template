@@ -69,7 +69,7 @@
     }
   ],
   "work": [
-    {
+   /* {
       "company": "UH Manoa Board of Publications",
       "position": "Web Developer",
       "website": "",
@@ -92,7 +92,7 @@
         "Troubleshoot software, hardware and networking issues over the phone",
         "Answer phone and email responses to the ITS Help Desk"
       ]
-    }
+    } */
   ], 
   
   "volunteer": [
@@ -120,8 +120,8 @@
       ]
     }
   ],
-  /**"awards": [
-    {
+  "awards": [
+  /*  {
       "title": "B+ Scholarship",
       "date": "2013-Present",
       "awarder": "State of Hawaii",
@@ -132,8 +132,8 @@
       "date": "2015",
       "awarder": "University of Hawaii Micromouse Competition",
       "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
-  ],**/
+    }*/
+  ],
   "references": [
     {
       "name": "Available upon request",
