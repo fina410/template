@@ -41,11 +41,27 @@ h3.ui.header {
     color: #123c69;
 }
 
+ui.header:last-child {
+    margin-bottom: 0;
+   color: #123c69;
+}
+
+
+.ui.left.aligned.header {
+    text-align: left;
+    color: #123c69;
+}
 
 .ui.menu .item {
    color: #123c69;
    
 }
+
+.ui.center.aligned.header, .ui.centered.header {
+    text-align: center;
+    color: #123c69;
+}
+
 
 body{
    color: #123c69;
