@@ -62,6 +62,14 @@ ui.header:last-child {
     color: #123c69;
 }
 
+.ui.menu .active.item {
+    background: rgba(45,12,60,.15);
+    color: rgba(18, 47, 139, 0.95);
+    font-weight: 400;
+    box-shadow: none;
+}
+
+
 
 body{
    color: #123c69;
