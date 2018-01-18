@@ -29,34 +29,30 @@
   },
   "interests": [
     {
-      "name": "Video Games",
+      "name": "Video Games"
       "keywords": [
         "Arduino",
         "TI MSP430"
       ]
     },
     {
-      "name": "data mining",
+      "name": "Web Design",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Photography",
       "keywords": [
       ]
     }
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "Languages",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "HTML",
+        "Java"
       ]
     },
     {
