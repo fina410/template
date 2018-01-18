@@ -7,11 +7,8 @@
 
 // Customize the background color
 body {
-  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#fda163+6,fe9c6e+17,fe9c6e+17,ff7d6f+43,fe6274+67,ee5c9b+99 */
-background: #fda163; /* Old browsers */
-background: -moz-linear-gradient(left, #fda163 6%, #fe9c6e 17%, #fe9c6e 17%, #ff7d6f 43%, #fe6274 67%, #ee5c9b 99%); /* FF3.6-15 */
-background: -webkit-linear-gradient(left, #fda163 6%,#fe9c6e 17%,#fe9c6e 17%,#ff7d6f 43%,#fe6274 67%,#ee5c9b 99%); /* Chrome10-25,Safari5.1-6 */
-background: linear-gradient(to right, #fda163 6%,#fe9c6e 17%,#fe9c6e 17%,#ff7d6f 43%,#fe6274 67%,#ee5c9b 99%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+background-color: -webkit-linear-gradient(left, #fda163 6%,#fe9c6e 17%,#fe9c6e 17%,#ff7d6f 43%,#fe6274 67%,#ee5c9b 99%); /* Chrome10-25,Safari5.1-6 */
+background-color: linear-gradient(to right, #fda163 6%,#fe9c6e 17%,#fe9c6e 17%,#ff7d6f 43%,#fe6274 67%,#ee5c9b 99%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fda163', endColorstr='#ee5c9b',GradientType=1 ); /* IE6-9 */
 }
 
