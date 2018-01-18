@@ -7,9 +7,7 @@
 
 // Customize the background color
 body {
-background-color: -webkit-linear-gradient(left, #fda163 6%,#fe9c6e 17%,#fe9c6e 17%,#ff7d6f 43%,#fe6274 67%,#ee5c9b 99%); /* Chrome10-25,Safari5.1-6 */
-background-color: linear-gradient(to right, #fda163 6%,#fe9c6e 17%,#fe9c6e 17%,#ff7d6f 43%,#fe6274 67%,#ee5c9b 99%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fda163', endColorstr='#ee5c9b',GradientType=1 ); /* IE6-9 */
+background: linear-gradient(to left bottom, #fda163, #fe9c6e, #fe9c6e, #ff7d6f, #fe6274, #ee5c9b);
 }
 
 // Customize the menubar color
