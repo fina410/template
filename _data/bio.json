@@ -2,7 +2,7 @@
   "basics": {
     "name": "Josefina Fortin",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/smaller2_90.jpg",
+    "picture": "https://techfolios.github.io/template/images/smaller_2_90.jpg",
     "email": "fortinj@hawaii.edu",
     "phone": "808-724-1761",
     "website": "https://josefinafortin.github.io",
@@ -68,7 +68,7 @@
       ]
     }
   ],
-  "work": [
+ /** "work": [
     {
       "company": "UH Manoa Board of Publications",
       "position": "Web Developer",
@@ -93,35 +93,33 @@
         "Answer phone and email responses to the ITS Help Desk"
       ]
     }
-  ],
+  ], **/
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "Central Union Church",
+      "website": "http://www.centralunionchurch.org/",
+      "position": "Sales Clerk",
+      "startDate": "2014-05-22",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "Organized and Help Sell Items",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Priced and sold items",
+        "Help maintain store and donated items"
       ]
     },
     {
-      "organization": "",
+      "organization": "Palolo Elementary School",
       "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "position": "Teacher Assistant",
+      "startDate": "2016-09",
+      "endDate": "2016-12",
+      "summary": "Helped & Taught 1st Graders",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Helped out students in reading and math"
       ]
     }
   ],
-  "awards": [
+  /**"awards": [
     {
       "title": "B+ Scholarship",
       "date": "2013-Present",
@@ -134,7 +132,7 @@
       "awarder": "University of Hawaii Micromouse Competition",
       "summary": "My team won first place in 2015.  See my portfolio site for more details."
     }
-  ],
+  ],**/
   "references": [
     {
       "name": "Available upon request",
