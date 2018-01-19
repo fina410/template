@@ -7,69 +7,76 @@
 
 // Customize the background color
 body {
-background: #eac67a;
+background: #bee9e8;
 }
 
 // Customize the menubar color
 .ui.menu {
-   background: #984b43;
+   background: #0f4356;
 }
 
 // Customize the home page icon colors
 .icon-color {
-color: #E27A7A;
+color: #0f4356;
 }
 
 a {
     background: 0 0;
-    color: #984b43;
+    color: #0f4356;
     text-decoration: none;
 }
 
 p {
-    color: #123c69;
+    color: #388291;
     margin: 0.5 em;
     line-height: 1.4285em;
 }
 
 .ui.header {
-    color: #123c69;
+    color: #62b6cb;
 }
 
 h3.ui.header {
     font-size: 1.28rem;
-    color: #123c69;
+    color: #62b6cb;
 }
 
 ui.header:last-child {
     margin-bottom: 0;
-   color: #123c69;
+   color: #62b6cb;
 }
 
 
 .ui.left.aligned.header {
     text-align: left;
-    color: #123c69;
+    color: #62b6cb;
 }
 
 .ui.menu .item {
-   color: #123c69;
+   color: #62b6cb;
    
 }
 
 .ui.center.aligned.header, .ui.centered.header {
     text-align: center;
-    color: #123c69;
+    color: #62b6cb;
 }
 
 .ui.menu .active.item {
     background: rgba(45,12,60,.15);
-    color: rgba(18, 47, 139, 0.95);
+    color: #CAE9ff;
     font-weight: 400;
     box-shadow: none;
 }
 
+.ui.red.label, .ui.red.labels .label {
+    background-color: #62b6cb!important;
+    border-color: #388291!important;
+    color: #FFF!important;
+}
+
+
 body{
-   color: #123c69;
+   color: #0f4356;
 }
 
