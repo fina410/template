@@ -1,0 +1,27 @@
+---
+layout: essay
+type: essay
+title: My Thoughts So Far on JavaScript
+# All dates must be YYYY-MM-DD format!
+date: 2018-01-18
+labels:
+  - JavaScript
+  - Essay
+  - Reflection
+---
+
+## Reflecting on JavaScript
+
+So far, I’m really taking a liking to JavaScript. I like how simple, comfortable, and easy it is to use, especially since I’m new to the language. With the knowledge of Java, and now learning JavaScript, it’s definitely a bit different. One of the most prominent differences is the fact that you don’t have to declare object types. Building and creating something is effortless, and quick as well. 
+
+## JavaScript, Good or Bad?
+
+From a software engineering perspective, I believe JavaScript falls in between. It’s good because it is very user, beginner friendly. However, it falls on the negative side, for the reason that it’s not the most practical or recommended language for a large project. For example in other languages such as Java and C, you can define types, such as int, float, etc., but in JavaScript defining types isn’t needed, and this could get messy. In web development, constructing apps, and etc., JavaScript thrives in this. Although Javascript may not be ideal for some, I believe it’s a great language to begin with, since it gets your foot in the door of  programming and the ability to create something.
+
+## The practice WODs are very helpful. Period.
+
+The purpose of the WODs, are for us to show our capabilities in thinking and performance in an interval of time.  Practice WODs and live DannyWODs, are proposed to us to prep us for the in-class WOD assessments. When I am practicing these WODs I can get my mind into the routine of being able to think on the spot. From this I believe I am sharpening my mindset, and I am gradually getting better at understanding what exactly I am doing. This style of learning I believe is an innovative way for us to apply what we are learning, because each time we practice these (and time ourselves) we have a sense of wanting to get a better time, which motivates us to do these WOD exercises. Performing these WOD exercises routinely will definitely become something that works for me, since I’ll be improve myself, however the stress of the assessment being timed is something that I’m going to have to (hopefully) get over.
+
+## Lasting Thoughts?
+
+I hope through this time of the class that I can better my skills in JavaScript, so I can I fully utilize it to it’s upmost capabilities.
