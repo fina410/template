@@ -80,3 +80,16 @@ body{
    color: #0f4356;
 }
 
+.ui.card, .ui.cards>.card {
+    
+    background: #b3dbe5;
+    
+    box-shadow: 0 1px 50px 0 #CAE9ff, 0 0 0 1px #CAE9ff;
+   
+}
+
+.ui.card>.content>.description, .ui.cards>.card>.content>.description {
+    clear: both;
+    color: #388291;
+}
+
