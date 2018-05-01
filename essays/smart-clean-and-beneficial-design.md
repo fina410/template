@@ -10,7 +10,7 @@ labels:
   - Framework
 ---
 
-##Picture this:
+## Picture this:
 
 You need to get from point a to point b. This is certainly something that you have done numerous times, but this particular commute is a bit different. You plan out different ways you can get to your destination. You can take a bus, walk, ride a bike, or catch a taxi. From previous experiences of utilizing these ways you come up with the best mode of transportation. 
 
